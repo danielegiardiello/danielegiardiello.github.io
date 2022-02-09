@@ -5,6 +5,7 @@ pagetitle: "Daniele Giardiello"
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
+
 <img src="images/DanieleGiardiello.jpg" style="width:25%; border:5px solid; margin-right: 20px" align="left">
 
 I am a Biostatistician at the [EURAC research](https://www.eurac.edu/en) at the [Institute of Biomedicine](https://www.eurac.edu/en/institutes-centers/institute-for-biomedicine).
