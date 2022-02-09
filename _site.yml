@@ -1,0 +1,26 @@
+name: "Daniele Giardiello"
+output_dir: "."
+navbar:
+  title: "Daniele Giardiello"
+  left:
+    - text: "Publications"
+      href: publications.html
+    - text: "Programming"
+      href: programming.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: ai-google-scholar ai-lg
+      href: https://scholar.google.it/citations?user=6Xro0z8AAAAJ
+    - icon: ai-cv ai-lg
+      href: ./files/DG_20220209.pdf
+    - icon: fab fa-github fa-lg
+      href: https://github.com/danielegiardiello
+    - icon: fab fa-twitter fa-lg
+      href: https://twitter.com/DGiardiello_
+    - icon: fab fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/daniele-giardiello-77892a84/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
