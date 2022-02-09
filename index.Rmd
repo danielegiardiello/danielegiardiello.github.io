@@ -1,0 +1,19 @@
+---
+title: " "
+pagetitle: "Daniele Giardiello"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
+
+<img src="images/DanieleGiardiello.jpg" style="width:25%; border:5px solid; margin-right: 20px" align="left">
+
+I am a Biostatistician at the [EURAC research](https://www.eurac.edu/en) at the [Institute of Biomedicine](https://www.eurac.edu/en/institutes-centers/institute-for-biomedicine).
+My research interests are statistical methods for observational studies. In particular, I am interested in risk prediction modelling and causal inference.
+
+I earned my MSc in biostatistics in 2012 from  [University of Milan-Bicocca](https://en.unimib.it/) (Italy).
+
+I am currently finalizing a PhD at the [Netherlands Cancer Institute](https://www.nki.nl/) with the collaboration of the [Department of Biomedical Data Sciences at Leiden University Medical Center](https://www.lumc.nl/org/bds/)(the Netherlands). 
+
+
+
