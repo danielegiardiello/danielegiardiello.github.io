@@ -3,8 +3,8 @@ title: " "
 pagetitle: "Daniele Giardiello"
 ---
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 <img src="images/DanieleGiardiello.jpg" style="width:25%; border:5px solid; margin-right: 20px" align="left">
 
