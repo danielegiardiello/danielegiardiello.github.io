@@ -8,11 +8,11 @@ navbar:
     - text: "Programming"
       href: programming.html
   right:
-    - icon: fa-envelope fa-lg
+    - icon: ai-google-scholar ai-lg
       href: contact.html
-    - icon: f-google-scholar fa-lg
+    - icon: ai-google-scholar ai-lg
       href: https://scholar.google.it/citations?user=6Xro0z8AAAAJ
-    - icon: fa-envelope fa-lg
+    - icon: ai-cv ai-lg
       href: ./files/DG_20220209.pdf
     - icon: fab fa-github fa-lg
       href: https://github.com/danielegiardiello
