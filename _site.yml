@@ -8,7 +8,7 @@ navbar:
     - text: "Programming"
       href: programming.html
   right:
-    - icon: ai-google-scholar ai-lg
+    - icon: fa-envelope fa-lg
       href: contact.html
     - icon: ai-google-scholar ai-lg
       href: https://scholar.google.it/citations?user=6Xro0z8AAAAJ
