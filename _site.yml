@@ -10,9 +10,9 @@ navbar:
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
-    - icon: ai-google-scholar fa-lg
+    - icon: f-google-scholar fa-lg
       href: https://scholar.google.it/citations?user=6Xro0z8AAAAJ
-    - icon: ai-cv ai-lg
+    - icon: fa-envelope fa-lg
       href: ./files/DG_20220209.pdf
     - icon: fab fa-github fa-lg
       href: https://github.com/danielegiardiello
