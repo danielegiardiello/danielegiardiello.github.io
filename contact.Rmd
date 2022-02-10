@@ -1,0 +1,12 @@
+---
+title: " "
+pagetitle: "Daniele Giardiello"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+My email is [daniele.giardiello@eurac.edu](daniele.giardiello@eurac.edu).  
+
+Connect with me on  [GitHub](https://github.com/danielegiardiello), [Twitter](https://twitter.com/DGiardiello_), or [Linkedin](https://www.linkedin.com/in/daniele-giardiello-77892a84/).
