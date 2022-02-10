@@ -17,10 +17,8 @@ I am currently a Biostatistician at the [EURAC research](https://www.eurac.edu/e
 My general research interests are statistical methods for observational studies. In particular, I am interested in risk prediction modelling and causal inference. These interests are motivated by applications in medicine, especially in oncology.
 
 #### PhD trajectory
-
-The goal of my PhD trajectory is to develop, validate, and evaluate the clinical utility of a contralateral breast cancer risk prediction model including more than 200,000 women diagnosed with first primary breast cancer coming from multiple studies in Europe (in particular from the Netherlands), United States, and Australia.  
-
-Population- and hospital-based studies were included in this project as [the Netherlands Cancer Registry](https://iknl.nl/en/ncr), Amsterdam Breast Cancer Study, Breast Cancer Outcome Study of Mutation carriers (BOSOM), Erasmus Medical Center (EMC) study, and [Hereditary Breast and Ovarian cancer study](https://www.hebon.nl/). We addionally included data from the [Breast Cancer Association Consortium](https://bcac.ccge.medschl.cam.ac.uk/).
+The goal of my PhD trajectory is to develop, validate, and evaluate the clinical utility of a contralateral breast cancer risk prediction model including more than 200,000 women diagnosed with first primary breast cancer coming from multiple studies in Europe (in particular from the Netherlands), United States, and Australia.    
+Population- and hospital-based studies were included in this project as [the Netherlands Cancer Registry](https://iknl.nl/en/ncr), Amsterdam Breast Cancer Study, Breast Cancer Outcome Study of Mutation carriers (BOSOM), Erasmus Medical Center (EMC) study, and [Hereditary Breast and Ovarian cancer study](https://www.hebon.nl/). We additionally included data from the [Breast Cancer Association Consortium](https://bcac.ccge.medschl.cam.ac.uk/).
 
 This project poses multiple challenges in biostatistics. For example, it is not clear how to develop and validate a risk prediction model with survival outcomes with and without competing risks in the scenario of Individual Patient Data Meta Analysis (IPD-MA) incorporating multiple data sources.   
 
@@ -45,9 +43,9 @@ The collaboration between the Department of Molecular Pathology of the [Netherla
 
 ##### Education
 
-+ 2010-2012: Master of Science (MSc) degree in Biostatistics and Experimental Statistics from the [University of Milan-Bicocca](https://en.unimib.it/);   
++ 2010-2012: Master of Science (MSc) degree in Biostatistics and Experimental Statistics from [University of Milan-Bicocca](https://en.unimib.it/);   
 
-+ 2007-2010: Bachelor degree (BSc) in Statistics and Information management from the [University of Milan-Bicocca](https://en.unimib.it/).  
++ 2007-2010: Bachelor degree (BSc) in Statistics and Information management from [University of Milan-Bicocca](https://en.unimib.it/).  
 
 
 
