@@ -1,0 +1,19 @@
+---
+title: " "
+pagetitle: "Daniele Giardiello"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+
+### Github packages
+
+- [`Prediction_performance_survival`](https://github.com/danielegiardiello/Prediction_performance_survival) (author). The following repository illustrates how to develop and validate a risk prediction models with survival outcome with the accompanying R and SAS code (work in progress);  
+
+- [`ValidationCompRisks`](https://github.com/survival-lumc/ValidationCompRisks) (author of .Rmd files/maintainer), R Code repository for the manuscript 'Validation of prediction models in presence of competing risks: a guide through modern methods' (in preparation).   
+
+### CRAN packages
+- [`raters`](https://cran.r-project.org/web/packages/raters/index.html) (creator), a package of functions to assess the reliability of agreement among multiple observers. A Modification of Fleiss' Kappa in Case of Nominal and Ordinal Variables is proposed.  
+
