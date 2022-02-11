@@ -22,7 +22,7 @@ Austin, P. C., Putter, H., **Giardiello, D.**, & van Klaveren, D. (2022). Graphi
 
 ##### Applications in breast cancer  
 
-van der Plas-Krijgsman, W. G.^#^, **Giardiello, D.**^#^, Putter, H., Steyerberg, E. W., Bastiaannet, E., Stiggelbout, A. M., ... & de Glas, N. A. (2021). Development and validation of the PORTRET tool to predict recurrence, overall survival, and other-cause mortality in older patients with breast cancer in the Netherlands: a population-based study. The Lancet Healthy Longevity, 2(11), e704-e711. https://doi.org/10.1016/S2666-7568(21)00229-4   
+van der Plas-Krijgsman, W. G.^#^, **Giardiello, D.**^#^, Putter, H., Steyerberg, E. W., Bastiaannet, E., Stiggelbout, A. M., ... & de Glas, N. A. (2021). Development and validation of the PORTRET tool to predict recurrence, overall survival, and other-cause mortality in older patients with breast cancer in the Netherlands: a population-based study. *The Lancet Healthy Longevity*, 2(11), e704-e711. https://doi.org/10.1016/S2666-7568(21)00229-4   
 
 **Giardiello, D.**, Hauptmann, M., Steyerberg, E. W., Adank, M. A., Akdeniz, D., Blom, J. C., ... & Schmidt, M. K. (2020). Prediction of contralateral breast cancer: external validation of risk calculators in 20 international cohorts. *Breast cancer research and treatment*, 181(2), 423-434. https://doi.org/10.1007/s10549-020-05611-8  
 
@@ -33,14 +33,14 @@ van der Plas-Krijgsman, W. G.^#^, **Giardiello, D.**^#^, Putter, H., Steyerberg,
 
 ##### Applications in cancer other than breast
 
-Bozzetti, F., Cotogni, P., Vullo, S. L., Pironi, L., **Giardiello, D.**, & Mariani, L. (2015). Development and validation of a nomogram to predict survival in incurable cachectic cancer patients on home parenteral nutrition. *Annals of Oncology*, 26(11), 2335-2340.  
+Bozzetti, F., Cotogni, P., Lo Vullo, S., Pironi, L., **Giardiello, D.**, & Mariani, L. (2015). Development and validation of a nomogram to predict survival in incurable cachectic cancer patients on home parenteral nutrition. *Annals of Oncology*, 26(11), 2335-2340.  
 
 Necchi, A., Sonpavde, G., Lo Vullo, S., **Giardiello, D.**, Bamias, A., Crabb, S. J., ... & RISC Investigators. (2017). Nomogram-based prediction of overall survival in patients with metastatic urothelial carcinoma receiving first-line platinum-based chemotherapy: retrospective international study of invasive/advanced cancer of the urothelium (RISC). *European urology*, 71(2), 281-289. 
 
 
 #### Other applications  
 
-Huber, V., Di Guardo, L., Lalli, L., **Giardiello, D.**, Cova, A., Squarcina, P., et al. (2021). Back to simplicity: a four-marker blood cell score to quantify prognostically relevant myeloid cells in melanoma patients. *Journal for Immunotherapy of Cancer*, 9(2).      
+Huber, V., Di Guardo, L., Lalli, L., **Giardiello, D.**, Cova, A., Squarcina, P., et al. (2021). Back to simplicity: a four-marker blood cell score to quantify prognostically relevant myeloid cells in melanoma patients. *Journal for Immunotherapy of Cancer*, 9(2). http://dx.doi.org/10.1136/jitc-2020-001167       
 
 Ferrari, A., Lo Vullo, S., **Giardiello, D.**, Veneroni, L., Magni, C., Clerici, C. A., ... & Mariani, L. (2016). The sooner the better? How symptom interval correlates with outcome in children and adolescents with solid tumors: regression tree analysis of the findings of a prospective study. *Pediatric Blood & Cancer*, 63(3), 479-485. https://doi.org/10.1002/pbc.25833  
 
