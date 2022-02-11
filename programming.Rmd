@@ -8,7 +8,7 @@ pagetitle: "Daniele Giardiello"
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 
-### Github packages
+### Github repositories
 
 - [`Prediction_performance_survival`](https://github.com/danielegiardiello/Prediction_performance_survival) (author). The following repository illustrates how to develop and validate a risk prediction models with survival outcome with the accompanying R and SAS code (work in progress);  
 
