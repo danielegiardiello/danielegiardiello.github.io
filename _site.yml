@@ -7,6 +7,9 @@ navbar:
       href: research.html
     - text: "Programming"
       href: programming.html
+    - text: "Talks"
+      href: talks.html
+      
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
