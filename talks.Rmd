@@ -1,0 +1,17 @@
+---
+title: " "
+pagetitle: "Daniele Giardiello"
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+### Recent talks 
+
+Slides will be uploaded in this section. 
+
+
+
+
+
