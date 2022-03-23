@@ -10,9 +10,9 @@ pagetitle: "Daniele Giardiello"
 
 ### Github repositories
 
-- [`Prediction_performance_survival`](https://github.com/danielegiardiello/Prediction_performance_survival) (author). The following repository illustrates how to develop and validate a risk prediction models with survival outcome with the accompanying R and SAS code (work in progress);  
+- [`Prediction_performance_survival`](https://github.com/danielegiardiello/Prediction_performance_survival) (author). R and SAS code repository for the manuscript 'Assessing performance and clinical usefulness in prediction models with survival outcomes: practical guidance for Cox proportional hazards models'(submitted). Preprint available [here](https://www.medrxiv.org/content/10.1101/2022.03.17.22272411v1);  
 
-- [`ValidationCompRisks`](https://github.com/survival-lumc/ValidationCompRisks) (author of .Rmd files/maintainer), R Code repository for the manuscript 'Validation of prediction models in presence of competing risks: a guide through modern methods' (in preparation).   
+- [`ValidationCompRisks`](https://github.com/survival-lumc/ValidationCompRisks) (author of .Rmd files/maintainer), R Code repository for the manuscript 'Validation of prediction models in presence of competing risks: a guide through modern methods' (under revision).   
 
 ### CRAN packages
 - [`raters`](https://cran.r-project.org/web/packages/raters/index.html) (creator), a package of functions to assess the reliability of agreement among multiple observers. A Modification of Fleiss' Kappa in Case of Nominal and Ordinal Variables is proposed.  
