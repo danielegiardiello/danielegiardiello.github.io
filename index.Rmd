@@ -17,12 +17,10 @@ I am currently a Biostatistician at the [EURAC research](https://www.eurac.edu/e
 My general research interests are statistical methods for observational studies. In particular, I am interested in risk prediction modelling and causal inference. These interests are motivated by applications in medicine, especially in oncology.
 
 #### PhD research (2016 - 2022)
-
-##### Applied project motivation
 The aim of the research during the PhD was to develop, validate, and evaluate the clinical utility of a contralateral breast cancer risk prediction model to tailor decision making about  interventions. In particular, individualized prediction might better identify high risk patients need for interventions as contralateral preventive mastectomy or additional treatments and/or personalized screening programs and low risk patients where interventions may be unnecessary.  
 We included more than 200,000 women diagnosed with first primary breast cancer coming from multiple studies in Europe (in particular from the Netherlands), United States, and Australia. In particular, population- and hospital-based studies were included in this project as [the Netherlands Cancer Registry](https://iknl.nl/en/ncr), Amsterdam Breast Cancer Study, Breast Cancer Outcome Study of Mutation carriers (BOSOM), Erasmus Medical Center (EMC) study, and [Hereditary Breast and Ovarian cancer study](https://www.hebon.nl/). We additionally included data from the [Breast Cancer Association Consortium](https://bcac.ccge.medschl.cam.ac.uk/).
 
-##### Challenges in biostatistics
+##### Challenges in biostatistics during the PhD trajectory
 This project poses multiple challenges in biostatistics. For example, it is not clear how to develop and validate a risk prediction model with survival outcomes with and without competing risks in the scenario of Individual Patient Data Meta Analysis (IPD-MA) incorporating multiple data sources.   
 
 Clear guidance is lacking for a comprehensive assessment of the performance for survival and competing risks models.  
