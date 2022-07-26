@@ -11,33 +11,31 @@ pagetitle: "Daniele Giardiello"
 
 ### About me
 I am currently a Biostatistician at the [EURAC research](https://www.eurac.edu/en) in the [Institute of Biomedicine](https://www.eurac.edu/en/institutes-centers/institute-for-biomedicine) in Bolzano (Italy).
-
+I am an applied biostatistician with strong interests in biostatistical methods about risk prediction and clinical epidemiology.  
 
 ### Research interests
-My general research interests are statistical methods for observational studies. In particular, I am interested in risk prediction modelling and causal inference. These interests are motivated by applications in medicine, especially in oncology.
+My general research interests are statistical methods for observational studies. In particular, I am interested in risk prediction modelling and causal inference. These interests are motivated by applications in medicine, especially in oncology. 
 
-#### PhD research (2016 - 2022)
-The aim of the research during the PhD was to develop, validate, and evaluate the clinical utility of a contralateral breast cancer risk prediction model to tailor decision making about  interventions. In particular, individualized prediction might better identify high risk patients need for interventions as contralateral preventive mastectomy or additional treatments and/or personalized screening programs and low risk patients where interventions may be unnecessary.  
-We included more than 200,000 women diagnosed with first primary breast cancer coming from multiple studies in Europe (in particular from the Netherlands), United States, and Australia. In particular, population- and hospital-based studies were included in this project as [the Netherlands Cancer Registry](https://iknl.nl/en/ncr), Amsterdam Breast Cancer Study, Breast Cancer Outcome Study of Mutation carriers (BOSOM), Erasmus Medical Center (EMC) study, and [Hereditary Breast and Ovarian cancer study](https://www.hebon.nl/). We additionally included data from the [Breast Cancer Association Consortium](https://bcac.ccge.medschl.cam.ac.uk/).
+#### PhD dissertation 
+My PhD dissertation _"Prediction of contralateral breast cancer - Statistical aspects and performance assessment"_ is available [here](https://books.gildeprint.nl/thesis/579953-Giardiello/). 
 
-##### Challenges in biostatistics during the PhD trajectory
-This project poses multiple challenges in biostatistics. For example, it is not clear how to develop and validate a risk prediction model with survival outcomes with and without competing risks in the scenario of Individual Patient Data Meta Analysis (IPD-MA) incorporating multiple data sources.   
+#### Challenges in biostatistics during the PhD trajectory
+This PhD project poses multiple challenges in biostatistics. For example, it is not clear how to develop and validate a risk prediction model with survival outcomes with and without competing risks in the scenario of Individual Patient Data Meta Analysis (IPD-MA) incorporating multiple data sources.   
 
 Clear guidance is lacking for a comprehensive assessment of the performance for survival and competing risks models.  
 We propose frameworks for performance evaluation of predictions and for clinical utility of survival and competing risks models to provide guidance in the context of the [STRATOS](https://www.stratos-initiative.org/) international initiative with the accompanying R and SAS code. More details are provided in the programming page [section](https://danielegiardiello.github.io/programming.html). 
 
 The collaboration between the Department of Molecular Pathology of the [Netherlands Cancer Institute](https://www.nki.nl/) and the Department of Biomedical Data Sciences at [Leiden University Medical Center](https://www.lumc.nl/org/bds/) was essential for this project.
 
-#### PhD dissertation 
-My PhD dissertation _"Prediction of contralateral breast cancer - Statistical aspects and performance assessment"_ is available [here](https://books.gildeprint.nl/thesis/579953-Giardiello/). 
+#### Specific (research) interests
 
-#### Other specific (research) interests
-
++ Analysis of Individual Patient Data (Meta) Analysis. A good reference [here](https://www.ipdma.co.uk/); 
 + Survival analysis;  
 + Dynamic prediction;  
 + Causal inference and causal risk prediction modelling;  
 + Machine learning algorithms;  
 + R/Python programming;  
++ Applied biostatistics in lifescience, especially oncology;
 
 
 #### Brief CV
