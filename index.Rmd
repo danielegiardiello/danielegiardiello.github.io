@@ -31,7 +31,7 @@ The collaboration between the Department of Molecular Pathology of the [Netherla
 
 + Analysis of Individual Patient Data (Meta) Analysis. A good reference [here](https://www.ipdma.co.uk/); 
 + Survival analysis;  
-+ Dynamic prediction;  
++ Risk prediction modelling including dynamic prediction;  
 + Causal inference and causal risk prediction modelling;  
 + Machine learning algorithms;  
 + R/Python programming;  
