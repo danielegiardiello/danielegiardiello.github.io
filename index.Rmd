@@ -10,22 +10,16 @@ pagetitle: "Daniele Giardiello"
 
 
 ### About me
-I am currently a Biostatistician at the [EURAC research](https://www.eurac.edu/en) in the [Institute of Biomedicine](https://www.eurac.edu/en/institutes-centers/institute-for-biomedicine) in Bolzano (Italy).
-I am an applied biostatistician with strong interests in biostatistical methods about risk prediction and clinical epidemiology.  
+I am an applied biostatistician with strong interests in biostatistical methods about risk prediction, clinical epidemiology and causal inference.  
 
-### Research interests
+This website contains my (current) general and specific research interests and a collection of my work, such as selected [publications](https://danielegiardiello.github.io/research.html) and my current contributions to methodological developments in biostatistics, especially as a [programmer](https://danielegiardiello.github.io/programming.html).   
+
+More details can be found at [GitHub](https://github.com/danielegiardiello), [Twitter](https://twitter.com/DGiardiello_), and [Google Scholar](https://danielegiardiello.github.io/contact.html).  
+
+My detailed CV is available [here](https://danielegiardiello.github.io/files/CV_DG_202207.pdf).
+
+#### General research interests
 My general research interests are statistical methods for observational studies. In particular, I am interested in risk prediction modelling and causal inference. These interests are motivated by applications in medicine, especially in oncology. 
-
-#### PhD dissertation 
-My PhD dissertation _"Prediction of contralateral breast cancer - Statistical aspects and performance assessment"_ is available [here](https://books.gildeprint.nl/thesis/579953-Giardiello/). 
-
-#### Challenges in biostatistics during the PhD trajectory
-This PhD project poses multiple challenges in biostatistics. For example, it is not clear how to develop and validate a risk prediction model with survival outcomes with and without competing risks in the scenario of Individual Patient Data Meta Analysis (IPD-MA) incorporating multiple data sources.   
-
-Clear guidance is lacking for a comprehensive assessment of the performance for survival and competing risks models.  
-We propose frameworks for performance evaluation of predictions and for clinical utility of survival and competing risks models to provide guidance in the context of the [STRATOS](https://www.stratos-initiative.org/) international initiative with the accompanying R and SAS code. More details are provided in the programming page [section](https://danielegiardiello.github.io/programming.html). 
-
-The collaboration between the Department of Molecular Pathology of the [Netherlands Cancer Institute](https://www.nki.nl/) and the Department of Biomedical Data Sciences at [Leiden University Medical Center](https://www.lumc.nl/org/bds/) was essential for this project.
 
 #### Specific (research) interests
 
@@ -40,22 +34,24 @@ The collaboration between the Department of Molecular Pathology of the [Netherla
 
 #### Brief CV
 
-+ 2021-present: Biostatistician at EURAC Research (Italy);  
++ 2021-2022: Biostatistician at EURAC Research (Italy);  
 
-+ 2016-2021: PhD candidate at the Netherlands Cancer Institute and Leiden University Medical Center (the Netherlands) - defence on 8th September 2022;  
++ 2016-2021: PhD candidate at the Netherlands Cancer Institute and Leiden University Medical Center (the Netherlands);   
 
 + 2016: Statistician at OPIS (Desio, Italy);  
 
 + 2014-2016: Biostatistician at the Italian National Cancer Institute (Milan, Italy);  
-
 + 2013-2014: Statistician at Zooprophylactic Institute of Lombardy and Emilia-Romagna (Brescia, Italy);  
 
 
 ##### Education
 
-+ 2010-2012: Master of Science (MSc) degree in Biostatistics and Experimental Statistics from [University of Milan-Bicocca](https://en.unimib.it/);   
++ 2022: PhD from [Leiden University](https://www.universiteitleiden.nl/en). PhD dissertation _"Prediction of contralateral breast cancer - Statistical aspects and performance assessment"_ is available [here](https://books.gildeprint.nl/thesis/579953-Giardiello/) and also available through Leiden University website [here](https://scholarlypublications.universiteitleiden.nl/handle/1887/3455362).
+My supervisors were professor [Marjanka Schmidt](https://www.nki.nl/research/find-a-researcher/groupleaders/marjanka-schmidt/),  professor [Ewout Steyerberg](https://www.universiteitleiden.nl/en/staffmembers/ewout-steyerberg#tab-1), and professor [Michael Hauptmann](https://www.mhb-fontane.de/details-zu/michael-hauptmann.html).
 
-+ 2007-2010: Bachelor degree (BSc) in Statistics and Information management from [University of Milan-Bicocca](https://en.unimib.it/).  
++ 2012: Master of Science (MSc) degree in Biostatistics and Experimental Statistics from [University of Milan-Bicocca](https://en.unimib.it/);   
+
++ 2010: Bachelor degree (BSc) in Statistics and Information management from [University of Milan-Bicocca](https://en.unimib.it/).  
 
 
 

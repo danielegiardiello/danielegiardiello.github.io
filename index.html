@@ -13,7 +13,7 @@
 
 <title>Daniele Giardiello</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.15/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
@@ -59,6 +59,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -83,6 +84,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -140,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -235,7 +243,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -314,47 +322,28 @@ $(document).ready(function () {
 <p><img src="images/DanieleGiardiello.jpg" style="width:25%; border:5px solid; margin-right: 20px" align="left"></p>
 <div id="about-me" class="section level3">
 <h3>About me</h3>
-<p>I am currently a Biostatistician at the <a
-href="https://www.eurac.edu/en">EURAC research</a> in the <a
-href="https://www.eurac.edu/en/institutes-centers/institute-for-biomedicine">Institute
-of Biomedicine</a> in Bolzano (Italy). I am an applied biostatistician
-with strong interests in biostatistical methods about risk prediction
-and clinical epidemiology.</p>
-</div>
-<div id="research-interests" class="section level3">
-<h3>Research interests</h3>
+<p>I am an applied biostatistician with strong interests in
+biostatistical methods about risk prediction, clinical epidemiology and
+causal inference.</p>
+<p>This website contains my (current) general and specific research
+interests and a collection of my work, such as selected <a
+href="https://danielegiardiello.github.io/research.html">publications</a>
+and my current contributions to methodological developments in
+biostatistics, especially as a <a
+href="https://danielegiardiello.github.io/programming.html">programmer</a>.</p>
+<p>More details can be found at <a
+href="https://github.com/danielegiardiello">GitHub</a>, <a
+href="https://twitter.com/DGiardiello_">Twitter</a>, and <a
+href="https://danielegiardiello.github.io/contact.html">Google
+Scholar</a>.</p>
+<p>My detailed CV is available <a
+href="https://danielegiardiello.github.io/files/CV_DG_202207.pdf">here</a>.</p>
+<div id="general-research-interests" class="section level4">
+<h4>General research interests</h4>
 <p>My general research interests are statistical methods for
 observational studies. In particular, I am interested in risk prediction
 modelling and causal inference. These interests are motivated by
 applications in medicine, especially in oncology.</p>
-<div id="phd-dissertation" class="section level4">
-<h4>PhD dissertation</h4>
-<p>My PhD dissertation <em>“Prediction of contralateral breast cancer -
-Statistical aspects and performance assessment”</em> is available <a
-href="https://books.gildeprint.nl/thesis/579953-Giardiello/">here</a>.</p>
-</div>
-<div id="challenges-in-biostatistics-during-the-phd-trajectory"
-class="section level4">
-<h4>Challenges in biostatistics during the PhD trajectory</h4>
-<p>This PhD project poses multiple challenges in biostatistics. For
-example, it is not clear how to develop and validate a risk prediction
-model with survival outcomes with and without competing risks in the
-scenario of Individual Patient Data Meta Analysis (IPD-MA) incorporating
-multiple data sources.</p>
-<p>Clear guidance is lacking for a comprehensive assessment of the
-performance for survival and competing risks models.<br />
-We propose frameworks for performance evaluation of predictions and for
-clinical utility of survival and competing risks models to provide
-guidance in the context of the <a
-href="https://www.stratos-initiative.org/">STRATOS</a> international
-initiative with the accompanying R and SAS code. More details are
-provided in the programming page <a
-href="https://danielegiardiello.github.io/programming.html">section</a>.</p>
-<p>The collaboration between the Department of Molecular Pathology of
-the <a href="https://www.nki.nl/">Netherlands Cancer Institute</a> and
-the Department of Biomedical Data Sciences at <a
-href="https://www.lumc.nl/org/bds/">Leiden University Medical Center</a>
-was essential for this project.</p>
 </div>
 <div id="specific-research-interests" class="section level4">
 <h4>Specific (research) interests</h4>
@@ -377,23 +366,37 @@ reference <a href="https://www.ipdma.co.uk/">here</a>;</li>
 <div id="brief-cv" class="section level4">
 <h4>Brief CV</h4>
 <ul>
-<li><p>2021-present: Biostatistician at EURAC Research (Italy);</p></li>
+<li><p>2021-2022: Biostatistician at EURAC Research (Italy);</p></li>
 <li><p>2016-2021: PhD candidate at the Netherlands Cancer Institute and
-Leiden University Medical Center (the Netherlands) - defence on 8th
-September 2022;</p></li>
+Leiden University Medical Center (the Netherlands);</p></li>
 <li><p>2016: Statistician at OPIS (Desio, Italy);</p></li>
 <li><p>2014-2016: Biostatistician at the Italian National Cancer
-Institute (Milan, Italy);</p></li>
+Institute (Milan, Italy);<br />
+</p></li>
 <li><p>2013-2014: Statistician at Zooprophylactic Institute of Lombardy
 and Emilia-Romagna (Brescia, Italy);</p></li>
 </ul>
 <div id="education" class="section level5">
 <h5>Education</h5>
 <ul>
-<li><p>2010-2012: Master of Science (MSc) degree in Biostatistics and
+<li><p>2022: PhD from <a
+href="https://www.universiteitleiden.nl/en">Leiden University</a>. PhD
+dissertation <em>“Prediction of contralateral breast cancer -
+Statistical aspects and performance assessment”</em> is available <a
+href="https://books.gildeprint.nl/thesis/579953-Giardiello/">here</a>
+and also available through Leiden University website <a
+href="https://scholarlypublications.universiteitleiden.nl/handle/1887/3455362">here</a>.
+My supervisors were professor <a
+href="https://www.nki.nl/research/find-a-researcher/groupleaders/marjanka-schmidt/">Marjanka
+Schmidt</a>, professor <a
+href="https://www.universiteitleiden.nl/en/staffmembers/ewout-steyerberg#tab-1">Ewout
+Steyerberg</a>, and professor <a
+href="https://www.mhb-fontane.de/details-zu/michael-hauptmann.html">Michael
+Hauptmann</a>.</p></li>
+<li><p>2012: Master of Science (MSc) degree in Biostatistics and
 Experimental Statistics from <a href="https://en.unimib.it/">University
 of Milan-Bicocca</a>;</p></li>
-<li><p>2007-2010: Bachelor degree (BSc) in Statistics and Information
+<li><p>2010: Bachelor degree (BSc) in Statistics and Information
 management from <a href="https://en.unimib.it/">University of
 Milan-Bicocca</a>.</p></li>
 </ul>
