@@ -16,7 +16,7 @@ This website contains my (current) general and specific research interests and a
 
 More details can be found at [GitHub](https://github.com/danielegiardiello), [Twitter](https://twitter.com/DGiardiello_), and [Google Scholar](https://danielegiardiello.github.io/contact.html).  
 
-My detailed CV is available [here](https://danielegiardiello.github.io/files/CV_DG_202207.pdf).
+My detailed CV is available [here](https://danielegiardiello.github.io/files/CV_DGiardiello_202209.pdf).
 
 #### General research interests
 My general research interests are statistical methods for observational studies. In particular, I am interested in risk prediction modelling and causal inference. These interests are motivated by applications in medicine, especially in oncology. 
