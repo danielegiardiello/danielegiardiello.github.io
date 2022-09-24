@@ -47,7 +47,6 @@ My general research interests are statistical methods for observational studies.
 ##### Education
 
 + 2022: PhD from [Leiden University](https://www.universiteitleiden.nl/en). PhD dissertation _"Prediction of contralateral breast cancer - Statistical aspects and performance assessment"_ is available [here](https://books.gildeprint.nl/thesis/579953-Giardiello/) and also available through Leiden University website [here](https://scholarlypublications.universiteitleiden.nl/handle/1887/3455362).
-My supervisors were professor [Marjanka Schmidt](https://www.nki.nl/research/find-a-researcher/groupleaders/marjanka-schmidt/),  professor [Ewout Steyerberg](https://www.universiteitleiden.nl/en/staffmembers/ewout-steyerberg#tab-1), and professor [Michael Hauptmann](https://www.mhb-fontane.de/details-zu/michael-hauptmann.html).
 
 + 2012: Master of Science (MSc) degree in Biostatistics and Experimental Statistics from [University of Milan-Bicocca](https://en.unimib.it/);   
 
