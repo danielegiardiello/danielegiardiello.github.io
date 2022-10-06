@@ -19,17 +19,18 @@ More details can be found at [GitHub](https://github.com/danielegiardiello), [Tw
 My detailed CV is available [here](https://danielegiardiello.github.io/files/CV_DGiardiello_202209.pdf).
 
 #### General research interests
-My general research interests are statistical methods for observational studies. In particular, I am interested in risk prediction modelling and causal inference. These interests are motivated by applications in medicine, especially in oncology. 
+My general research interests are statistical methods for observational studies. In particular, I am interested in risk prediction modelling and causal inference such as Mendelian Randomization. These interests are motivated by applications in medicine, especially in oncology. 
 
 #### Specific (research) interests
 
 + Analysis of Individual Patient Data (Meta) Analysis. A good reference [here](https://www.ipdma.co.uk/); 
 + Survival analysis;  
 + Risk prediction modelling including dynamic prediction;  
-+ Causal inference and causal risk prediction modelling;  
++ Causal inference such as Mendelian Randomization:
++ Causal risk prediction modelling;  
 + Machine learning algorithms;  
 + R/Python programming;  
-+ Applied biostatistics in lifescience, especially oncology;
++ Applied biostatistics in lifescience:
 
 
 #### Brief CV
