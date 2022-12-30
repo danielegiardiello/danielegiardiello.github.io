@@ -30,14 +30,14 @@ My general research interests are statistical methods for observational studies.
 + Causal risk prediction modelling;  
 + Machine learning algorithms;  
 + R/Python programming;  
-+ Applied biostatistics in lifescience:
++ Applied biostatistics in lifescience
 
 
 #### Brief CV
 
 + 2021-2022: Biostatistician at EURAC Research (Italy);  
 
-+ 2016-2021: PhD candidate at the Netherlands Cancer Institute and Leiden University Medical Center (the Netherlands);   
++ 2016-2021: PhD candidate at the Netherlands Cancer Institute and Leiden University Medical Center (Amsterdam, the Netherlands);   
 
 + 2016: Statistician at OPIS (Desio, Italy);  
 

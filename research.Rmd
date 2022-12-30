@@ -16,20 +16,24 @@ pagetitle: "Daniele Giardiello"
   
 ##### Methodology 
 
-van Geloven N., **Giardiello, D**, Bonneville E. F., Teece L., Ramspek C. L., van Smeeden M., Sneel K. I. E., van Calster B., Pohar-Perme M., Riley R. D., Putter H., & Steyerberg E. W. (2022). Validation of prediction models in the presence of competing risks: a guide through modern methods. *British Medical Journal*, 377:e069249, https://doi.org/10.1136/bmj-2021-069249  
+McLernon, D. J., **Giardiello, D.**, Van Calster, B., Wynants, L., van Geloven, N., van Smeden, M., Therneau T., Steyerberg E.W. & topic groups 6 and 8 of the STRATOS Initiative. (2022). Assessing performance and clinical usefulness in prediction models with survival outcomes: Practical guidance for Cox proportional hazards models. *Annals of Internal Medicine*, https://doi.org/10.7326/M22-0844   
+
+van Geloven N., **Giardiello, D**, Bonneville E. F., Teece L., Ramspek C. L., van Smeeden M., Sneel K. I. E., van Calster B., Pohar-Perme M., Riley R. D., Putter H., & Steyerberg E. W. on behalf of the STRATOS initiative (2022). Validation of prediction models in the presence of competing risks: a guide through modern methods. *British Medical Journal*, 377:e069249, https://doi.org/10.1136/bmj-2021-069249  
   
 Austin, P. C., Putter, H., **Giardiello, D.**, & van Klaveren, D. (2022). Graphical calibration curves and the integrated calibration index (ICI) for competing risk models. *Diagnostic and prognostic research*, 6(1), 1-22. https://doi.org/10.1186/s41512-021-00114-6   
 
 **Giardiello, D.**, Antoniou, A. C., Mariani, L., Easton, D. F., & Steyerberg, E. W. (2020). a response to Ming’s study on machine learning techniques for personalized breast cancer risk prediction. *Breast Cancer Research*, 22(1), 1-2.  https://doi.org/10.1186/s13058-020-1255-4   
 
 
-##### Applications in breast cancer  
+##### Applications in breast cancer 
+
+**Giardiello, D.**, Hooning, M. J., Hauptmann, M., Keeman, R., Heemskerk-Gerritsen, B. A., Becher, H., ... & Schmidt, M. K. (2022). PredictCBC-2.0: a contralateral breast cancer risk prediction model developed and validated in~ 200,000 patients. *Breast Cancer Research*, 24(1), 1-14.  https://doi.org/10.1186/s13058-022-01567-3  
 
 van der Plas-Krijgsman, W. G.^#^, **Giardiello, D.**^#^, Putter, H., Steyerberg, E. W., Bastiaannet, E., Stiggelbout, A. M., ... & de Glas, N. A. (2021). Development and validation of the PORTRET tool to predict recurrence, overall survival, and other-cause mortality in older patients with breast cancer in the Netherlands: a population-based study. *The Lancet Healthy Longevity*, 2(11), e704-e711. https://doi.org/10.1016/S2666-7568(21)00229-4   
 
 **Giardiello, D.**, Hauptmann, M., Steyerberg, E. W., Adank, M. A., Akdeniz, D., Blom, J. C., ... & Schmidt, M. K. (2020). Prediction of contralateral breast cancer: external validation of risk calculators in 20 international cohorts. *Breast cancer research and treatment*, 181(2), 423-434. https://doi.org/10.1007/s10549-020-05611-8  
 
-**Giardiello, D.**, Steyerberg, E. W., Hauptmann, M., Adank, M. A., Akdeniz, D., Blomqvist, C., ... & Schmidt, M. K. (2019). Prediction and clinical utility of a contralateral breast cancer risk model. *Breast cancer research*, 21(1), 1-13. https://doi.org/10.1186/s13058-019-1221-1    
+**Giardiello, D.**, Steyerberg, E. W., Hauptmann, M., Adank, M. A., Akdeniz, D., Blomqvist, C., ... & Schmidt, M. K. (2019). Prediction and clinical utility of a contralateral breast cancer risk model. *Breast cancer research*, 21(1), 1-13. https://doi.org/10.1186/s13058-019-1221-1   
 
 ^#^ authors contributed equally
 
