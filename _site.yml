@@ -3,28 +3,53 @@ output_dir: "."
 navbar:
   title: "Daniele Giardiello"
   left:
-    - text: "Research"
-      href: research.html
-    - text: "Programming"
-      href: programming.html
-    - text: "Talks"
-      href: talks.html
-      
-  right:
-    - icon: fa-envelope fa-lg
-      href: contact.html
-    - icon: ai-google-scholar ai-lg
-      href: https://scholar.google.com/citations?hl=en&user=6Xro0z8AAAAJ&view_op=list_works&sortby=pubdate
-    - icon: ai-pubmed ai-lg
-      href: https://pubmed.ncbi.nlm.nih.gov/?term=Daniele+Giardiello%5BAuthor%5D&sort=date
-    - icon: ai-cv ai-lg
-      href: ./files/CV_DGiardiello_202209.pdf
-    - icon: fab fa-github fa-lg
-      href: https://github.com/danielegiardiello
-    - icon: fab fa-twitter fa-lg
-      href: https://twitter.com/DGiardiello_
-    - icon: fab fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/daniele-giardiello-77892a84/
+    - Research
+    - Programming
+    - Talks
+  right: 
+   -  Contact
+   -  GScholar
+   -  Pubmed
+   -  CV
+   -  Github
+   -  Twitter
+   -  Linkedin
+  components:
+    Research:
+        text: "Research"
+        href: research.html
+    Programming:
+        text: "Programming"
+        menu:
+        - text: "Github repositories and R cran packages"
+          href: programming.html
+    Research:
+        text: "Research"
+        href: research.html
+    Talks:
+        text: "Talks"
+        href: talks.html
+    Contact:
+        icon: fa-envelope fa-lg
+        href: contact.html
+    GScholar:
+        icon: ai-google-scholar ai-lg
+        href: https://scholar.google.com/citations?hl=en&user=6Xro0z8AAAAJ&view_op=list_works&sortby=pubdate
+    Pubmed:
+        icon: ai-pubmed ai-lg
+        href: https://pubmed.ncbi.nlm.nih.gov/?term=Daniele+Giardiello%5BAuthor%5D&sort=date
+    CV:
+        icon: ai-cv ai-lg
+        href: ./files/CV_DGiardiello_202209.pdf
+    Github:
+        icon: fab fa-github fa-lg
+        href: https://github.com/danielegiardiello
+    Twitter:
+        icon: fab fa-twitter fa-lg
+        href: https://twitter.com/DGiardiello_
+    Linkedin:
+        icon: fab fa-linkedin fa-lg
+        href: https://www.linkedin.com/in/daniele-giardiello-77892a84/
 output:
   html_document:
     theme: paper
