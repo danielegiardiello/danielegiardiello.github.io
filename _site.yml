@@ -6,7 +6,7 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "Programming"
-      href: programming/programming.html
+      href: programming.html
     - text: "Talks"
       href: talks.html
       
