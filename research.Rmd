@@ -11,10 +11,9 @@ pagetitle: "Daniele Giardiello"
   
   
   
-#### Risk prediction models   
-  
-  
 ##### Methodology 
+
+Austin, P.C., **Giardiello, D**, van Buuren, S. (2023). Impute‐then‐exclude versus exclude‐then‐impute: Lessons when imputing a variable used both in cohort creation and as an independent variable in the analysis model. *Statistics in Medicine*, https://doi.org/10.1002/sim.9685  
 
 McLernon, D. J., **Giardiello, D.**, Van Calster, B., Wynants, L., van Geloven, N., van Smeden, M., Therneau T., Steyerberg E.W. & topic groups 6 and 8 of the STRATOS Initiative. (2022). Assessing performance and clinical usefulness in prediction models with survival outcomes: Practical guidance for Cox proportional hazards models. *Annals of Internal Medicine*, https://doi.org/10.7326/M22-0844   
 
