@@ -1,6 +1,6 @@
 ---
-title: " "
-pagetitle: "Daniele Giardiello"
+title: ' '
+pagetitle: Daniele Giardiello
 ---
 
 
@@ -12,7 +12,7 @@ pagetitle: "Daniele Giardiello"
 ### About me
 I am an applied biostatistician with strong interests in biostatistical methods about risk prediction, clinical epidemiology and causal inference.  
 
-This website contains my (current) general and specific research interests and a collection of my work, such as selected [publications](https://danielegiardiello.github.io/research.html) and my current contributions to methodological developments in biostatistics, especially as a [programmer](https://danielegiardiello.github.io/programming/programming.html).   
+This website contains my (current) general and specific research interests and a collection of my work, such as selected [publications](https://danielegiardiello.github.io/research.html) and my current contributions to methodological developments in biostatistics, especially as a [programmer](https://danielegiardiello.github.io/programming.html).   
 
 More details can be found at [GitHub](https://github.com/danielegiardiello), [Twitter](https://twitter.com/DGiardiello_), and [Google Scholar](https://danielegiardiello.github.io/contact.html).  
 
@@ -34,6 +34,8 @@ My general research interests are statistical methods for observational studies.
 
 
 #### Brief CV
+
++ 2023: Senior Biostatistician at Chiesi farmaceutici (Italy);  
 
 + 2021-2022: Biostatistician at EURAC Research (Italy);  
 

@@ -9,7 +9,7 @@ pagetitle: "Daniele Giardiello"
 
 ### Recent talks 
 
-Slides will be uploaded in this section. 
++ 8th September 2022 - Leiden University. PhD defence ceremony: Prediction of contralateral breast cancer - Statistical aspects and performance assessment [video](https://www.youtube.com/watch?v=HSTBeWeG8Xo&t=620s);  
 
 
 
