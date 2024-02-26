@@ -14,7 +14,7 @@ I am an applied biostatistician with strong interests in biostatistical methods 
 
 This website contains my (current) general and specific research interests and a collection of my work, such as selected [publications](https://danielegiardiello.github.io/research.html) and my current contributions to methodological developments in biostatistics, especially as a [programmer](https://danielegiardiello.github.io/programming.html).   
 
-More details can be found at [GitHub](https://github.com/danielegiardiello), [Twitter](https://twitter.com/DGiardiello_), and [Google Scholar](https://danielegiardiello.github.io/contact.html).  
+More details can be found at [GitHub](https://github.com/danielegiardiello) and [Google Scholar](https://danielegiardiello.github.io/contact.html).  
 
 My detailed CV is available [here](https://danielegiardiello.github.io/files/CV_DGiardiello_202209.pdf).
 
@@ -26,7 +26,7 @@ My general research interests are statistical methods for observational studies.
 + Analysis of Individual Patient Data (Meta) Analysis. A good reference [here](https://www.ipdma.co.uk/); 
 + Survival analysis;  
 + Risk prediction modelling including dynamic prediction;  
-+ Causal inference such as Mendelian Randomization:
++ Causal inference; 
 + Causal risk prediction modelling;  
 + Machine learning algorithms;  
 + R/Python programming;  
