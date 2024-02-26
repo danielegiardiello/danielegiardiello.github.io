@@ -18,7 +18,7 @@ navbar:
     - icon: ai-pubmed ai-lg
       href: https://pubmed.ncbi.nlm.nih.gov/?term=Daniele+Giardiello%5BAuthor%5D&sort=date
     - icon: ai-cv ai-lg
-      href: ./files/CV_DGiardiello_202209.pdf
+      href: ./files/CV_DG_202402_web.pdf
     - icon: fab fa-github fa-lg
       href: https://github.com/danielegiardiello
     - icon: fab fa-twitter fa-lg

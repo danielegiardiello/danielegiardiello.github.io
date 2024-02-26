@@ -10,16 +10,16 @@ pagetitle: Daniele Giardiello
 
 
 ### About me
-I am an applied biostatistician with strong interests in biostatistical methods about risk prediction, clinical epidemiology and causal inference.  
+I am a statistician with strong interests in applied and methodological statistical aspects especially about risk prediction, epidemiology and causal inference.  
 
-This website contains my (current) general and specific research interests and a collection of my work, such as selected [publications](https://danielegiardiello.github.io/research.html) and my current contributions to methodological developments in biostatistics, especially as a [programmer](https://danielegiardiello.github.io/programming.html).   
+This website contains my (current) general and specific research interests and a collection of my work, such as selected [publications](https://danielegiardiello.github.io/research.html) and my contributions to methodological developments in medical statistics, especially as a [programmer](https://danielegiardiello.github.io/programming.html).   
 
-More details can be found at [GitHub](https://github.com/danielegiardiello) and [Google Scholar](https://danielegiardiello.github.io/contact.html).  
+More details can be found at [GitHub](https://github.com/danielegiardiello) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=6Xro0z8AAAAJ&view_op=list_works&sortby=pubdate).  
 
-My detailed CV is available [here](https://danielegiardiello.github.io/files/CV_DGiardiello_202209.pdf).
+My detailed CV is available [here](https://danielegiardiello.github.io/files/CV_DG_202402_web.pdf).
 
 #### General research interests
-My general research interests are statistical methods for observational studies. In particular, I am interested in risk prediction modelling and causal inference. These interests are motivated by applications in medicine, especially in oncology. 
+My general research interests are statistical methods for observational studies. In particular, I am interested in applied and methodological aspects especially about risk prediction modelling and causal inference. These interests are motivated by applications in biomedical sciences.  
 
 #### Specific (research) interests
 
