@@ -12,7 +12,7 @@ pagetitle: Daniele Giardiello
 ### About me
 I am a statistician with strong interests in applied and methodological statistical aspects especially about risk prediction, epidemiology and causal inference.  
 
-This website contains my (current) general and specific research interests and a collection of my work, such as selected [publications](https://danielegiardiello.github.io/research.html) and my contributions to methodological developments in medical statistics, especially as a [programmer](https://danielegiardiello.github.io/programming.html).   
+This website contains my (current) general and specific research interests and a collection of my work such as selected [publications](https://danielegiardiello.github.io/research.html) and my contributions to methodological developments in medical statistics, especially as a [programmer](https://danielegiardiello.github.io/programming.html).   
 
 More details can be found at [GitHub](https://github.com/danielegiardiello) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=6Xro0z8AAAAJ&view_op=list_works&sortby=pubdate).  
 
@@ -24,17 +24,13 @@ My general research interests are statistical methods for observational studies.
 
 + Analysis of Individual Patient Data (Meta) Analysis. A good reference [here](https://www.ipdma.co.uk/); 
 + Survival analysis;  
-+ Risk prediction modelling including dynamic prediction;  
++ Risk prediction modelling;  
 + Causal inference; 
-+ Causal risk prediction modelling;  
 + Machine learning algorithms;  
 + R/Python programming;  
-+ Applied biostatistics in lifescience
-
++ Statistics applied to biomedical research
 
 #### Brief CV
-
-+ 2023: Senior Biostatistician at Chiesi farmaceutici (Italy);  
 
 + 2021-2022: Biostatistician at EURAC Research (Italy);  
 
