@@ -13,9 +13,12 @@ pagetitle: "Daniele Giardiello"
   
 ##### Methodology 
 
-Austin, P.C., **Giardiello, D**, van Buuren, S. (2023). Impute‐then‐exclude versus exclude‐then‐impute: Lessons when imputing a variable used both in cohort creation and as an independent variable in the analysis model. *Statistics in Medicine*, https://doi.org/10.1002/sim.9685  
+Austin, P.C., **Giardiello, D** (2025). The impact of violation of proportional hazard assumption on the discrimination of the Cox proportional hazards model *Diagnostic and Prognostic Research*, https://doi.org/10.1186/s41512-026-00223-0   
 
-McLernon, D. J., **Giardiello, D.**, Van Calster, B., Wynants, L., van Geloven, N., van Smeden, M., Therneau T., Steyerberg E.W. & topic groups 6 and 8 of the STRATOS Initiative. (2022). Assessing performance and clinical usefulness in prediction models with survival outcomes: Practical guidance for Cox proportional hazards models. *Annals of Internal Medicine*, https://doi.org/10.7326/M22-0844   
+Austin, P.C., **Giardiello, D** (2025). The impact of violation of proportional hazard assumption on the calibration of the Cox proportional hazards model *Statistics in Medicine*, https://doi.org/10.1002/sim.70161    
+Austin, P.C., **Giardiello, D**, van Buuren, S. (2023). Impute‐then‐exclude versus exclude‐then‐impute: Lessons when imputing a variable used both in cohort creation and as an independent variable in the analysis model. *Statistics in Medicine*, https://doi.org/10.1002/sim.9685   
+
+McLernon, D. J., **Giardiello, D.**, Van Calster, B., Wynants, L., van Geloven, N., van Smeden, M., Therneau T., Steyerberg E.W. & topic groups 6 and 8 of the STRATOS Initiative. (2022). Assessing performance and clinical usefulness in prediction models with survival outcomes: Practical guidance for Cox proportional hazards models. *Annals of Internal Medicine*, https://doi.org/10.7326/M22-0844     
 
 van Geloven N., **Giardiello, D**, Bonneville E. F., Teece L., Ramspek C. L., van Smeeden M., Sneel K. I. E., van Calster B., Pohar-Perme M., Riley R. D., Putter H., & Steyerberg E. W. on behalf of the STRATOS initiative (2022). Validation of prediction models in the presence of competing risks: a guide through modern methods. *British Medical Journal*, 377:e069249, https://doi.org/10.1136/bmj-2021-069249  
   
@@ -39,14 +42,11 @@ van der Plas-Krijgsman, W. G.^#^, **Giardiello, D.**^#^, Putter, H., Steyerberg,
 
 ##### Applications in cancer other than breast
 
-Bozzetti, F., Cotogni, P., Lo Vullo, S., Pironi, L., **Giardiello, D.**, & Mariani, L. (2015). Development and validation of a nomogram to predict survival in incurable cachectic cancer patients on home parenteral nutrition. *Annals of Oncology*, 26(11), 2335-2340.  
+Bozzetti, F., Cotogni, P., Lo Vullo, S., Pironi, L., **Giardiello, D.**, & Mariani, L. (2015). Development and validation of a nomogram to predict survival in incurable cachectic cancer patients on home parenteral nutrition. *Annals of Oncology*, 26(11), 2335-2340.   
 
-Necchi, A., Sonpavde, G., Lo Vullo, S., **Giardiello, D.**, Bamias, A., Crabb, S. J., ... & RISC Investigators. (2017). Nomogram-based prediction of overall survival in patients with metastatic urothelial carcinoma receiving first-line platinum-based chemotherapy: retrospective international study of invasive/advanced cancer of the urothelium (RISC). *European urology*, 71(2), 281-289. 
+Necchi, A., Sonpavde, G., Lo Vullo, S., **Giardiello, D.**, Bamias, A., Crabb, S. J., ... & RISC Investigators. (2017). Nomogram-based prediction of overall survival in patients with metastatic urothelial carcinoma receiving first-line platinum-based chemotherapy: retrospective international study of invasive/advanced cancer of the urothelium (RISC). *European urology*, 71(2), 281-289.   
 
-
-#### Other applications  
-
-Huber, V., Di Guardo, L., Lalli, L., **Giardiello, D.**, Cova, A., Squarcina, P., et al. (2021). Back to simplicity: a four-marker blood cell score to quantify prognostically relevant myeloid cells in melanoma patients. *Journal for Immunotherapy of Cancer*, 9(2). http://dx.doi.org/10.1136/jitc-2020-001167       
+Huber, V., Di Guardo, L., Lalli, L., **Giardiello, D.**, Cova, A., Squarcina, P., et al. (2021). Back to simplicity: a four-marker blood cell score to quantify prognostically relevant myeloid cells in melanoma patients. *Journal for Immunotherapy of Cancer*, 9(2). http://dx.doi.org/10.1136/jitc-2020-001167        
 
 Ferrari, A., Lo Vullo, S., **Giardiello, D.**, Veneroni, L., Magni, C., Clerici, C. A., ... & Mariani, L. (2016). The sooner the better? How symptom interval correlates with outcome in children and adolescents with solid tumors: regression tree analysis of the findings of a prospective study. *Pediatric Blood & Cancer*, 63(3), 479-485. https://doi.org/10.1002/pbc.25833  
 

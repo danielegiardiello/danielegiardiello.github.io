@@ -6,8 +6,6 @@ pagetitle: Daniele Giardiello
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-<img src="images/DanieleGiardiello.jpg" style="width:25%; border:5px solid; margin-right: 20px" align="left">
-
 
 ### About me
 I am a statistician with strong interests in applied and methodological statistical aspects especially about risk prediction, epidemiology and causal inference.  
@@ -22,23 +20,24 @@ My general research interests are statistical methods for observational studies.
 
 #### Specific (research) interests
 
-+ Analysis of Individual Patient Data (Meta) Analysis. A good reference [here](https://www.ipdma.co.uk/); 
-+ Survival analysis;  
 + Risk prediction modelling;  
-+ Causal inference; 
++ Survival analysis;  
++ Analysis of Individual Patient Data (Meta) Analysis;
 + Machine learning algorithms;  
 + R/Python programming;  
-+ Statistics applied to biomedical research
 
 #### Brief CV
 
-+ 2021-2022: Biostatistician at EURAC Research (Italy);  
++ 2024 - present: assistant professor in medical statistics at University of Milan-Bicocca;
+
++ 2023: experiences as statistician in industries working in clinical trials;  
+
++ 2021-2022: biostatistician at EURAC Research (Italy);  
 
 + 2016-2021: PhD candidate at the Netherlands Cancer Institute and Leiden University Medical Center (Amsterdam, the Netherlands);   
 
-+ 2016: Statistician at OPIS (Desio, Italy);  
-
 + 2014-2016: Biostatistician at the Italian National Cancer Institute (Milan, Italy);  
+
 + 2013-2014: Statistician at Zooprophylactic Institute of Lombardy and Emilia-Romagna (Brescia, Italy);  
 
 
