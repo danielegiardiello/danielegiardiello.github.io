@@ -8,29 +8,17 @@ pagetitle: Daniele Giardiello
 
 
 ### About me
-I am a statistician with strong interests in applied and methodological statistical aspects especially about risk prediction, epidemiology and causal inference.  
+I am a statistician who conducts research in statistical methods for health services research and clinical epidemiological research. I conduct research in the following four areas: (1) statistical and machine learning methods for predicting patient outcomes; (2) survival analysis; (3) methods for clustered data; (4) methods for dynamic predictions. I also have extensive experience in the analysis of large administrative healthcare databases. I am also interested in causal inference methods. 
 
 This website contains my (current) general and specific research interests and a collection of my work such as selected [publications](https://danielegiardiello.github.io/research.html) and my contributions to methodological developments in medical statistics, especially as a [programmer](https://danielegiardiello.github.io/programming.html).   
 
 More details can be found at [GitHub](https://github.com/danielegiardiello) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=6Xro0z8AAAAJ&view_op=list_works&sortby=pubdate).  
 
-
-#### General research interests
-My general research interests are statistical methods for observational studies. In particular, I am interested in applied and methodological aspects especially about risk prediction modelling and causal inference. These interests are motivated by applications in biomedical sciences.  
-
-#### Specific (research) interests
-
-+ Risk prediction modelling;  
-+ Survival analysis;  
-+ Analysis of Individual Patient Data (Meta) Analysis;
-+ Machine learning algorithms;  
-+ R/Python programming;  
-
 #### Brief CV
 
 + 2024 - present: assistant professor in medical statistics at University of Milan-Bicocca;
 
-+ 2023: experiences as statistician in industries working in clinical trials;  
++ 2023: experiences as statistician in industries working in clinical trials and AI for imaging analyses (Chiesi & Menarini);  
 
 + 2021-2022: biostatistician at EURAC Research (Italy);  
 
