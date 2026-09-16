@@ -13,15 +13,17 @@ pagetitle: "Daniele Giardiello"
   
 ##### Methodology 
 
-Austin, P.C., **Giardiello, D** (2026). The impact of violation of proportional hazard assumption on the discrimination of the Cox proportional hazards model *Diagnostic and Prognostic Research*, https://doi.org/10.1186/s41512-026-00223-0   
+**Giardiello, D.**, Ratti, E., Austin P.C. (2026) The Impact of the Number and the Size of Clusters on Prediction Performance of the Stratified and the Conditional Shared Gamma Frailty Cox Proportional Hazards Models *Biometrical Journal*, https://doi.org/10.1002/bimj.70180  
 
-Austin, P.C., **Giardiello, D** (2025). The impact of violation of proportional hazard assumption on the calibration of the Cox proportional hazards model *Statistics in Medicine*, https://doi.org/10.1002/sim.70161  
+Austin, P.C., **Giardiello, D.** (2026). The impact of violation of proportional hazard assumption on the discrimination of the Cox proportional hazards model *Diagnostic and Prognostic Research*, https://doi.org/10.1186/s41512-026-00223-0   
 
-Austin, P.C., **Giardiello, D**, van Buuren, S. (2023). Impute‐then‐exclude versus exclude‐then‐impute: Lessons when imputing a variable used both in cohort creation and as an independent variable in the analysis model. *Statistics in Medicine*, https://doi.org/10.1002/sim.9685   
+Austin, P.C., **Giardiello, D.** (2025). The impact of violation of proportional hazard assumption on the calibration of the Cox proportional hazards model *Statistics in Medicine*, https://doi.org/10.1002/sim.70161  
+
+Austin, P.C., **Giardiello, D.**, van Buuren, S. (2023). Impute‐then‐exclude versus exclude‐then‐impute: Lessons when imputing a variable used both in cohort creation and as an independent variable in the analysis model. *Statistics in Medicine*, https://doi.org/10.1002/sim.9685   
 
 McLernon, D. J., **Giardiello, D.**, Van Calster, B., Wynants, L., van Geloven, N., van Smeden, M., Therneau T., Steyerberg E.W. & topic groups 6 and 8 of the STRATOS Initiative. (2022). Assessing performance and clinical usefulness in prediction models with survival outcomes: Practical guidance for Cox proportional hazards models. *Annals of Internal Medicine*, https://doi.org/10.7326/M22-0844     
 
-van Geloven N., **Giardiello, D**, Bonneville E. F., Teece L., Ramspek C. L., van Smeeden M., Sneel K. I. E., van Calster B., Pohar-Perme M., Riley R. D., Putter H., & Steyerberg E. W. on behalf of the STRATOS initiative (2022). Validation of prediction models in the presence of competing risks: a guide through modern methods. *British Medical Journal*, 377:e069249, https://doi.org/10.1136/bmj-2021-069249  
+van Geloven N., **Giardiello, D.**, Bonneville E. F., Teece L., Ramspek C. L., van Smeeden M., Sneel K. I. E., van Calster B., Pohar-Perme M., Riley R. D., Putter H., & Steyerberg E. W. on behalf of the STRATOS initiative (2022). Validation of prediction models in the presence of competing risks: a guide through modern methods. *British Medical Journal*, 377:e069249, https://doi.org/10.1136/bmj-2021-069249  
   
 Austin, P. C., Putter, H., **Giardiello, D.**, & van Klaveren, D. (2022). Graphical calibration curves and the integrated calibration index (ICI) for competing risk models. *Diagnostic and prognostic research*, 6(1), 1-22. https://doi.org/10.1186/s41512-021-00114-6   
 
